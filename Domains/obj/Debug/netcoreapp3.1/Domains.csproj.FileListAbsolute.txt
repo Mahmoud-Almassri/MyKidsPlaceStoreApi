@@ -1,0 +1,12 @@
+D:\Projects\MyKidsPlaceStoreApi\Domains\bin\Debug\netcoreapp3.1\Domains.deps.json
+D:\Projects\MyKidsPlaceStoreApi\Domains\bin\Debug\netcoreapp3.1\Domains.runtimeconfig.json
+D:\Projects\MyKidsPlaceStoreApi\Domains\bin\Debug\netcoreapp3.1\Domains.runtimeconfig.dev.json
+D:\Projects\MyKidsPlaceStoreApi\Domains\bin\Debug\netcoreapp3.1\Domains.dll
+D:\Projects\MyKidsPlaceStoreApi\Domains\bin\Debug\netcoreapp3.1\Domains.pdb
+D:\Projects\MyKidsPlaceStoreApi\Domains\obj\Debug\netcoreapp3.1\Domains.csproj.AssemblyReference.cache
+D:\Projects\MyKidsPlaceStoreApi\Domains\obj\Debug\netcoreapp3.1\Domains.AssemblyInfoInputs.cache
+D:\Projects\MyKidsPlaceStoreApi\Domains\obj\Debug\netcoreapp3.1\Domains.AssemblyInfo.cs
+D:\Projects\MyKidsPlaceStoreApi\Domains\obj\Debug\netcoreapp3.1\Domains.csproj.CoreCompileInputs.cache
+D:\Projects\MyKidsPlaceStoreApi\Domains\obj\Debug\netcoreapp3.1\Domains.dll
+D:\Projects\MyKidsPlaceStoreApi\Domains\obj\Debug\netcoreapp3.1\Domains.pdb
+D:\Projects\MyKidsPlaceStoreApi\Domains\obj\Debug\netcoreapp3.1\Domains.genruntimeconfig.cache

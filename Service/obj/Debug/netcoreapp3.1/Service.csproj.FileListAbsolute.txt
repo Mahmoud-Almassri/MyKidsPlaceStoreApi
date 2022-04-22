@@ -1,0 +1,17 @@
+D:\Projects\MyKidsPlaceStoreApi\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Projects\MyKidsPlaceStoreApi\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.json
+D:\Projects\MyKidsPlaceStoreApi\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.dev.json
+D:\Projects\MyKidsPlaceStoreApi\Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Projects\MyKidsPlaceStoreApi\Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Projects\MyKidsPlaceStoreApi\Service\bin\Debug\netcoreapp3.1\Domains.dll
+D:\Projects\MyKidsPlaceStoreApi\Service\bin\Debug\netcoreapp3.1\Repository.dll
+D:\Projects\MyKidsPlaceStoreApi\Service\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\Projects\MyKidsPlaceStoreApi\Service\bin\Debug\netcoreapp3.1\Domains.pdb
+D:\Projects\MyKidsPlaceStoreApi\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+D:\Projects\MyKidsPlaceStoreApi\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Projects\MyKidsPlaceStoreApi\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Projects\MyKidsPlaceStoreApi\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\Projects\MyKidsPlaceStoreApi\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\Projects\MyKidsPlaceStoreApi\Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Projects\MyKidsPlaceStoreApi\Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\Projects\MyKidsPlaceStoreApi\Service\obj\Debug\netcoreapp3.1\Service.genruntimeconfig.cache

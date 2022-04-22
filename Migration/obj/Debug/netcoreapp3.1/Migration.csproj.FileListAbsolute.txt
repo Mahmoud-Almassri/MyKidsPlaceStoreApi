@@ -1,0 +1,12 @@
+D:\Projects\MyKidsPlaceStoreApi\Migration\bin\Debug\netcoreapp3.1\Migration.deps.json
+D:\Projects\MyKidsPlaceStoreApi\Migration\bin\Debug\netcoreapp3.1\Migration.runtimeconfig.json
+D:\Projects\MyKidsPlaceStoreApi\Migration\bin\Debug\netcoreapp3.1\Migration.runtimeconfig.dev.json
+D:\Projects\MyKidsPlaceStoreApi\Migration\bin\Debug\netcoreapp3.1\Migration.dll
+D:\Projects\MyKidsPlaceStoreApi\Migration\bin\Debug\netcoreapp3.1\Migration.pdb
+D:\Projects\MyKidsPlaceStoreApi\Migration\obj\Debug\netcoreapp3.1\Migration.csproj.AssemblyReference.cache
+D:\Projects\MyKidsPlaceStoreApi\Migration\obj\Debug\netcoreapp3.1\Migration.AssemblyInfoInputs.cache
+D:\Projects\MyKidsPlaceStoreApi\Migration\obj\Debug\netcoreapp3.1\Migration.AssemblyInfo.cs
+D:\Projects\MyKidsPlaceStoreApi\Migration\obj\Debug\netcoreapp3.1\Migration.csproj.CoreCompileInputs.cache
+D:\Projects\MyKidsPlaceStoreApi\Migration\obj\Debug\netcoreapp3.1\Migration.dll
+D:\Projects\MyKidsPlaceStoreApi\Migration\obj\Debug\netcoreapp3.1\Migration.pdb
+D:\Projects\MyKidsPlaceStoreApi\Migration\obj\Debug\netcoreapp3.1\Migration.genruntimeconfig.cache
